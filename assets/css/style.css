@@ -1,0 +1,24 @@
+h2 {
+  text-align: center;
+}
+
+hr {
+  margin: 3rem 0;
+}
+
+form {
+  width: 70%;
+  margin: 0 auto;
+}
+
+input[type="button"],
+input[type="reset"] {
+  background: #fff;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+input[type="button"]:hover,
+input[type="reset"]:hover {
+  background: hsl(0, 0%, 92%);
+}
